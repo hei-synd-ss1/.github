@@ -14,11 +14,14 @@
 
 Welcome to the GitHub organization for the [HEI-Vs Engineering School](https://hevs.ch/synd) in Sion, Switzerland. This organization is dedicated to the summer school project "Kart" for the orientation Synd aka [Industrial Systems](https://hevs.ch/synd).
 
+More informations about hte Summerschool 1 Kart Project can be found on the official webpage: [ss1.hevs.io](https://ss1.hevs.io)
+
 ## Repositories
 
 Here are the repositories available in this organization:
 
-- [ss1-vhdl](https://github.com/hei-synd-ss1/ss1-vhdl): This repository contains all documents and projects related to the VHDL part of the SS1 project.
+- [ss1-vhdl](https://github.com/hei-synd-ss1/ss1-vhdl): This repository contains the project related to the VHDL part of the SS1 project.
+- [ss1-docs](https://github.com/hei-synd-ss1/ss1-docs): This repository contains all documents related to the VHDL part of the SS1 project.
 
 ## Contributing
 
