@@ -20,8 +20,9 @@ More informations about hte Summerschool 1 Kart Project can be found on the offi
 
 Here are the repositories available in this organization:
 
-- [ss1-vhdl](https://github.com/hei-synd-ss1/ss1-vhdl): This repository contains the project related to the VHDL part of the SS1 project.
 - [ss1-docs](https://github.com/hei-synd-ss1/ss1-docs): This repository contains all documents related to the VHDL part of the SS1 project.
+- [ss1-vhdl](https://github.com/hei-synd-ss1/ss1-vhdl): This repository contains the project related to the VHDL part of the SS1 project.
+- [ss1-cad](https://github.com/hei-synd-ss1/ss1-cad): This repository contains all documents related to the CAD part of the SS1 project.
 
 ## Contributing
 
